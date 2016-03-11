@@ -1,3 +1,4 @@
+#!/sys/bin/env python
 #----------------------------------------
 #Author : Leo Feradero Nugraha
 #Date : 06-05-2016
