@@ -1,7 +1,7 @@
 #!/sys/bin/env python
 #----------------------------------------
 #Author : Leo Feradero Nugraha
-#Date : 06-05-2016
+#Date : 06-03-2016
 #Email : leoferaderonugraha@yahoo.com
 #File Name : Number2Binary.py
 #----------------------------------------
