@@ -1,2 +1,1 @@
-# projek_kecil_kecilan
-have fun ^^
+# Some example programs 
