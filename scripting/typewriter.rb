@@ -1,18 +1,17 @@
 def animate(s)
   msg = s.split
   punc = [',', '.','/']
-  last_c = ''
+  last_ch = ''
 
   msg.each do |word|
     time = rand(0.08..0.15)
     word.chars.each do |c|
       
-      if c == ';' #Newline
+      if c == ';' # Newline
         print "\n"
       else
         
         if punc.include?(c)
-        
           if c == ','
             print c
             sleep(0.3)
@@ -21,18 +20,17 @@ def animate(s)
             print c
             sleep(0.1)
           end
-        
         else
           print c
           sleep(time)
         end
 
       end
-      last_c = c
+      last_ch = c
 
     end
     #sleep(0.17)
-    if last_c != ';'
+    if last_ch != ';'
       print ' '
     end
   end
