@@ -1,4 +1,4 @@
 # Welcome
 
 Greetings!
-This is my personal space for saving some of my programs.
+This is my personal space for hosting some of my programs/scripts.
